@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "E:/PROJECTS/UPW/Slepian/Drivers/rtmidi-4.0.0/out/build/x64-Debug (default)/CMakeFiles/cmidiin.dir/embed.manifest"

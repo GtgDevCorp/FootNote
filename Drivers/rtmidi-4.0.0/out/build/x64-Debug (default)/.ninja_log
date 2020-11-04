@@ -1,0 +1,20 @@
+# ninja log v5
+0	18	0	clean	63bc6ea4e62f3343
+92	824	617566326	CMakeFiles/cmidiin.dir/tests/cmidiin.cpp.obj	a1e0d222dbb30cf0
+33	855	617566326	CMakeFiles/rtmidi.dir/rtmidi_c.cpp.obj	c16967fdc607f6e1
+71	864	617566326	CMakeFiles/apinames.dir/tests/apinames.cpp.obj	d07350e5161d8d4d
+114	874	617566326	CMakeFiles/midiprobe.dir/tests/midiprobe.cpp.obj	edddd5eff61793f2
+54	1308	617566326	CMakeFiles/sysextest.dir/tests/sysextest.cpp.obj	2d8390b0001ee5c6
+1	1319	617566326	CMakeFiles/midiclock.dir/tests/midiclock.cpp.obj	ce2a4faa71b4dd49
+154	1349	617566326	CMakeFiles/qmidiin.dir/tests/qmidiin.cpp.obj	b66a74c9e4e5853a
+133	1356	617566326	CMakeFiles/midiout.dir/tests/midiout.cpp.obj	6f9f7a1e5e2ca91c
+16	1380	617566327	CMakeFiles/rtmidi.dir/RtMidi.cpp.obj	2cfc4498a3fc3dc5
+1381	1962	617566327	rtmidi.dll	6a32283f796aeaae
+1381	1962	617566327	rtmidi.lib	6a32283f796aeaae
+1962	3188	617566328	tests/midiclock.exe	75477f5174e054cd
+1975	3201	617566328	tests/sysextest.exe	c9066d71c0baf0e1
+1988	3259	617566328	tests/apinames.exe	28a437223de26826
+2007	3264	617566328	tests/cmidiin.exe	b2fc61e7f34ff86a
+2034	3274	617566328	tests/midiout.exe	f50f79d370dcb0f2
+2062	3316	617566328	tests/midiprobe.exe	55e56af4b4b55ded
+2097	3325	617566328	tests/qmidiin.exe	d25ba171b6c44764
